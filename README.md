@@ -111,6 +111,7 @@ scoop config aria2-min-split-size 4M
 |  阿波波外语  |              [aboboo](http://aboboo.com)               |    ✓     | 精简版 |
 |  阿波波外语  |            [aboboo-full](http://aboboo.com)            |    ✓     | 完整版 |
 |   欧路词典   |               [eudic](https://eudic.net)               |    ✓     |        |
+|   德语助手   |    [dehelper](https://eudic.net/v4/es/app/dehelper)    |    ✓     |        |
 |   西语助手   |    [eshelper](https://eudic.net/v4/es/app/eshelper)    |    ✓     |        |
 |   法语助手   |    [frhelper](https://eudic.net/v4/fr/app/frhelper)    |    ✓     |        |
 | 每日英语听力 |         [ting-en](http://dict.eudic.net/ting)          |    ✓     |        |
