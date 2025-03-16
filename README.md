@@ -139,8 +139,8 @@ scoop config aria2-min-split-size 4M
 |      抖音       |                   [douyin](https://douyin.com)                   |    ✓     |                                                      |
 |  抖音直播伴侣   |     [douyin-streamingtool](https://streamingtool.douyin.com)     |    ✓     |                                                      |
 |   哔哩下载姬    |         [downkyi](https://github.com/leiurayer/downkyi)          |    ✓     |                     by @CronusLM                     |
-|    Edgeless     |              [edgeless](https://home.edgeless.top/)              |    ✓     |                   by @IsaacWangTT                    |
-|    亿图图示     |                [edrawmax](https://edrawsoft.cn/)                 |    ✓     |                                                      |
+|    Edgeless     |              [edgeless](https://home.edgeless.top)               |    ✓     |                   by @IsaacWangTT                    |
+|    亿图图示     |                 [edrawmax](https://edrawsoft.cn)                 |    ✓     |                                                      |
 |      飞书       |                   [feishu](https://feishu.cn)                    |    ✓     |                                                      |
 |     EV 录屏     |           [evcapture](https://ieway.cn/evcapture.html)           |    ✓     |                                                      |
 |      剪映       |                [jianying-pro](https://capcut.cn)                 |    ✓     |                                                      |
@@ -153,9 +153,10 @@ scoop config aria2-min-split-size 4M
 |     uTools      |                    [utools](https://u.tools)                     |    ✓     |                                                      |
 |     小狼毫      |                    [weasel](https://rime.im)                     |    ✓     |                                                      |
 |    企业微信     |             [wechatwork](https://work.weixin.qq.com)             |    ✓     |                                                      |
-|    WPSOffice    |             [wpsoffice-cn](https://wps.com/zh-hant/)             |    ✓     |                                                      |
+|    WPSOffice    |             [wpsoffice-cn](https://wps.com/zh-hant)              |    ✓     |                                                      |
 |      语雀       |                    [yuque](https://yuque.com)                    |    ✓     | 复制于 [dorado](https://github.com/chawyehsu/dorado) |
-|    AIGCPanel    |               [aigcpanel](https://aigcpanel.com/)                |    ✓     |                                                      |
+|    AIGCPanel    |                [aigcpanel](https://aigcpanel.com)                |    ✓     |                                                      |
+|   BaiduPCS-Go   |      [baidupcs-go](https://github.com/qjfoidnh/BaiduPCS-Go)      |    ✓     |                                                      |
 |  Fishing-Funds  |     [fishing-funds](https://github.com/1zilc/fishing-funds)      |    ✓     |                                                      |
 |    HBuilderX    |          [hbuilderx](https://dcloud.io/hbuilderx.html)           |    ✓     |                                                      |
 | M3u8-Downloader | [m3u8-downloader](https://github.com/HeiSir2014/M3U8-Downloader) |    ✓     |                                                      |
