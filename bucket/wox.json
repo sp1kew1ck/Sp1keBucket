@@ -1,29 +1,16 @@
 {
-    "version": "1.4.1196",
+    "version": "v1.4.1196",
     "description": "A full-featured launcher, access programs and web contents as you type.",
-    "homepage": "http://www.wox.one",
-    "license": "MIT",
-    "suggest": {
-        "Python3": "python",
-        "Everything": "extras/everything"
+    "homepage": "https://github.com/Wox-launcher/Wox",
+    "license": {
+        "identifier": "MIT",
+        "url": "https://opensource.org/licenses/MIT"
     },
-    "url": "https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Wox.1.4.1196.nupkg",
-    "hash": "78475d5c6c501bfe149d0660c4f5439b5720a6650a5716eba7ec09490ba01a82",
-    "extract_dir": "lib\\net45",
-    "bin": "Wox.exe",
-    "shortcuts": [
-        [
-            "Wox.exe",
-            "Wox"
-        ]
-    ],
-    "checkver": {
-        "github": "https://github.com/Wox-launcher/Wox"
-    },
+    "url": "https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Wox-1.4.1196.exe",
+    "hash": "2cd868e2f83b629952be6ff4c207608ae7da4a74fabe512b138fa72261f526c4",
+    "bin": "Wox-1.4.1196.exe",
+    "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/Wox-launcher/Wox/releases/download/v$version/Wox-$version-full.nupkg",
-        "hash": {
-            "url": "$baseurl/RELEASES"
-        }
+        "url": "https://github.com/Wox-launcher/Wox/releases/download/v$version/Wox-$version.exe"
     }
 }
