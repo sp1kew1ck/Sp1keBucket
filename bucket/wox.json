@@ -8,7 +8,7 @@
     },
     "url": "https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.1/wox-windows-amd64.exe",
     "hash": "46a7f2040d4985a289e86abc4289bc46f44703923a3d9dc207ec2681aa98457e",
-    "bin": "wox.exe",
+    "bin": "wox-windows-amd64.exe",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/Wox-launcher/Wox/releases/download/v$version/wox-windows-amd64.exe"
